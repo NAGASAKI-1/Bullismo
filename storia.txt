@@ -9,5 +9,22 @@ Non ci sono insegnanti presenti al momento dei fatti.
 Il preside deve interrogare 10 studenti che si trovavano nei pressi della palestra in quell’orario e decidere chi è responsabile dell’atto più grave.
 
 LUCA (VITTIMA):
-Indizio 1: “Io e Marco stavamo discutendo. C’erano altre persone intorno. Qualcuno mi ha spinto all’indietro e sono caduto nel ripostiglio."
-Indizio 2: "Ho sentito ridere, poi la porta si è chiusa.Non ho visto chi ha girato la chiave.”
+Indizio 1: “Io e Marco stavamo discutendo, è tutto l'anno che mi prende di mira con i suoi amici, non ce la facevo più. C’erano altre persone intorno, ma poi siamo rimasti solo in tre. Qualcuno mi ha spinto all’indietro e sono caduto nel ripostiglio. Non ho visto chi è stato."
+Indizio 2: "Ho sentito ridere, poi la porta si è chiusa. Non ho visto chi ha girato la chiave.”
+
+MARCO (BULLO):
+Indizio 1: “Sì, stavamo discutendo. Luca era molto agitato. Io non ho fatto nulla, non so perchè mi ha insultato. Non abbiamo mai avuto problemi fra di noi."
+Indizio 2: "Io non l’ho toccato. Me ne sono andato prima che succedesse altro.”
+
+ANDREA (SOSTENITORE DEL BULLO):
+Indizio 1: "È stato Luca a iniziare. Ha spinto Marco e ha scatenato il caos. Merita una punizione."
+Indizio 2: "Non so niente di cosa è successo di preciso. Quel giorno ero andato via prima ma è stato sicuramente Luca. Conosco Marco da una vita, non farebbe nulla a quello strano.”
+
+GIULIA (TESTIMONE PARZIALE):
+Indizio 1: “Ho visto Luca e Marco urlarsi contro. Si stavano urlando pesantemente, Luca era molto provato. Marco e i suoi amici spesso lo prendono di mira."
+Indizio 2: "Mi sono allontanata perché non volevo problemi. Non voglio rischiare una sospensione per una cosa che non ho fatto.”
+
+SIMONE (COLPEVOLE NASCOSTO):
+Indizio 1: “C’era confusione, Luca era veramente molto agitato. Stava insultando un mio il mio amico Marco, io ho cercato di difenderlo."
+Indizio 2: "Quando me ne sono andato non c’era più nessuno, eravamo rimasti solo io e Marco. Luca è sparito all'improvviso, non so chi è stato.”
+
