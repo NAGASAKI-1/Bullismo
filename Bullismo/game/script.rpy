@@ -2,7 +2,12 @@
 
 #  Dichiara i personaggi usati in questo gioco. L'argomento 'color' colora il nome del personaggio.
 
-define e = Character("Eileen", color="#f44")
+define Preside = Character("Preside", color="#4e7239")
+define Luca = Character("Luca", color="#2b13b6")
+define Marco = Character("Marco", color="#f72323")
+define Andrea = Character("Andrea", color="#fffb00")
+define Giulia = Character("Giulia", color="#fd0bc9")
+define Simone = Character("Simone", color="#00ffdd")
 
 
 # Il gioco comincia qui.
@@ -25,9 +30,9 @@ label start:
 
     "Funziona davvero!"
 
-    e "Hai creato un nuovo gioco Ren'Py."
+    Preside "Hai creato un nuovo gioco Ren'Py."
 
-    e "Quando aggiungerai una storia, immagini e musica, potrai distribuirlo nel mondo!"
+    Preside "Quando aggiungerai una storia, immagini e musica, potrai distribuirlo nel mondo!"
 
     # Questo termina il gioco.
 
