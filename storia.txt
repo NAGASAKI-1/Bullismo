@@ -20,9 +20,9 @@ ANDREA (SOSTENITORE DEL BULLO):
 Indizio 1: “È stato Luca a iniziare tutto. Ha perso il controllo, ha spinto Marco e ha attirato l’attenzione di tutti. Fa sempre la vittima ma poi è lui che provoca. Se succede qualcosa è perché se l’è cercata.”
 Indizio 2: “Io non so esattamente cosa sia successo dopo, perché me ne sono andato prima. Però sono sicuro che Marco non farebbe mai una cosa del genere. Lo conosco da sempre, non è capace di cattiverie. Luca invece è strano, sempre isolato.”
 
-GIULIA (TESTIMONE PARZIALE):
+GIULIO (TESTIMONE PARZIALE):
 Indizio 1: “Ho visto Luca e Marco urlarsi contro vicino alla palestra. Era una discussione pesante, non una semplice lite. Luca sembrava davvero provato, quasi sul punto di scoppiare a piangere. Marco e i suoi amici spesso lo prendono di mira, lo vedono come uno su cui scherzare.”
-Indizio 2: “Quando la situazione è peggiorata me ne sono andata. Avevo paura di finire nei guai per qualcosa che non avevo fatto. Non ho visto cosa è successo dopo e non voglio essere coinvolta più del necessario.”
+Indizio 2: “Quando la situazione è peggiorata me ne sono andato. Avevo paura di finire nei guai per qualcosa che non avevo fatto. Non ho visto cosa è successo dopo e non voglio essere coinvolta più del necessario.”
 
 SIMONE (COLPEVOLE NASCOSTO):
 Indizio 1: “C’era molta confusione. Luca era fuori di sé e stava insultando pesantemente Marco, che è un mio amico. Io sono intervenuto solo per difenderlo e cercare di farlo smettere. Non volevo che degenerasse.”
@@ -58,7 +58,7 @@ Andrea racconta la storia come una leggenda da corridoio.
 Uno scherzo finito male.
 Una cosa da dimenticare.
 
-Giulia evita di incrociare lo sguardo di Luca.
+Giulio evita di incrociare lo sguardo di Luca.
 Ogni tanto pensa di parlargli.
 Poi si convince che ormai è troppo tardi.
 
