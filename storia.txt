@@ -28,7 +28,7 @@ SIMONE (COLPEVOLE NASCOSTO):
 Indizio 1: “C’era molta confusione. Luca era fuori di sé e stava insultando pesantemente Marco, che è un mio amico. Io sono intervenuto solo per difenderlo e cercare di farlo smettere. Non volevo che degenerasse.”
 Indizio 2: “Quando me ne sono andato non c’era più nessuno in giro. Eravamo rimasti solo io e Marco. A un certo punto Luca non c’era più, era sparito. Non so davvero cosa sia successo dopo.”
 
-FINALE DEL GIOCO (NOTA DISCIPLINARE CHE IL PRESIDE SCRIVE AGLI ALUNNI):
+FINALE DEL GIOCO (SE L'UTENTE INDOVINA I COLPEVOLI) (NOTA DISCIPLINARE CHE IL PRESIDE SCRIVE AGLI ALUNNI):
 Dopo aver ascoltato attentamente le versioni dei fatti e analizzato le contraddizioni emerse, è chiaro che l’episodio non può essere liquidato come uno scherzo o una semplice lite.
 Luca è stato vittima di un atto grave: è stato chiuso a chiave in un ripostiglio, isolato e lasciato solo. Questo è un atto di bullismo.
 Marco viene sanzionato per il comportamento reiterato di provocazione e intimidazione nei confronti di un compagno. Le parole, le prese in giro e l’atteggiamento di gruppo sono forme di violenza.
@@ -39,9 +39,67 @@ Vive nel gruppo che ride, nel testimone che si gira dall’altra parte, in chi a
 Punire non basta. Capire sì.
 Questa scuola non tollera il bullismo, in nessuna delle sue forme.
 
+FINALE DEL GIOCO (SE L'UTENTE NON INDOVINA I COLPEVOLI) (COME SI SVILUPPA IL FUTURO):
+Il preside non è riuscito a scoprire il colpevole. Il caso viene chiuso.
+Troppe versioni diverse, troppe incertezze. Nessuno è colpevole abbastanza.
+
+Luca rientra a scuola, ma non è più lo stesso.
+Cammina con lo sguardo basso, come se cercasse di occupare meno spazio possibile.
+Nessuno lo prende più in giro apertamente.
+Ma nessuno gli siede accanto.
+Ogni risata nei corridoi gli sembra rivolta a lui.
+Ogni porta che si chiude gli fa trattenere il respiro.
+
+Marco continua la sua vita.
+Ride, scherza, viene promosso.
+Dice che “ormai è acqua passata”.
+
+Andrea racconta la storia come una leggenda da corridoio.
+Uno scherzo finito male.
+Una cosa da dimenticare.
+
+Giulia evita di incrociare lo sguardo di Luca.
+Ogni tanto pensa di parlargli.
+Poi si convince che ormai è troppo tardi.
+
+Simone non viene mai chiamato in causa.
+Ha imparato una lezione importante:
+se nessuno guarda, nessuno chiede.
+
+Passano le settimane.
+Luca smette di alzare la mano.
+Smette di uscire all’intervallo.
+Smette di parlare.
+I professori annotano: “Studente silenzioso, poco partecipe.”
+
+Un pomeriggio, la madre di Luca entra a scuola.
+Ha il viso stanco, gli occhi gonfi.
+Parla a bassa voce con il preside.
+Il giorno dopo, la sedia di Luca è vuota.
+Non c’è nessun annuncio ufficiale.
+Solo voci.
+Solo silenzi più lunghi del solito.
+Qualcuno dice che Luca si è trasferito.
+Qualcuno dice che stava male da tempo.
+Nessuno dice il suo nome ad alta voce.
+La porta del ripostiglio della palestra viene sostituita.
+Una serratura nuova.
+Come se bastasse cambiare una chiave per cancellare tutto.
+
+Gli anni passano.
+Gli studenti crescono, se ne vanno.
+Ma chi c’era quel giorno, ogni tanto, quando sente una porta chiudersi troppo forte,
+si ricorda.
+Si ricorda di aver visto.
+Di aver sentito.
+E di non aver fatto nulla.
+
 MESSAGGIO FINALE PER L'UTENTE:
 “Il bullismo non è sempre evidente.
 A volte il vero responsabile è chi approfitta del silenzio degli altri.”
+
+(Se l'utente sbaglia a indovinare i colpevolia aggiungere anche: "Non tutte le storie di bullismo finiscono con una punizione.
+Alcune finiscono con un silenzio che dura per sempre.")
 
 «Alla fine, non ricorderemo le parole dei nostri nemici, ma il silenzio dei nostri amici.»
 Martin Luther King Jr.
