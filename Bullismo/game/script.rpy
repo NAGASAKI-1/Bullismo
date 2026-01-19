@@ -18,7 +18,7 @@ label start:
     # aggiungere un file (chiamato "bg room.png" oppure "bg room.jpg")
     # alla directory 'images' per cambiarla.
 
-    scene bg room
+    scene bg classroom
 
     # Mostra lo sprite di un personaggio.
     # Al momento mostra una sagoma generica, ma puoi aggiungere un file
