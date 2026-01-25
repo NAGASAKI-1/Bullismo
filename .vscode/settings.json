@@ -1,5 +1,5 @@
 {
-    "renpyWarp.sdkPath": "/home/nanobots/.config/Code - OSS/User/globalStorage/paisleysoftworks.renpywarp/file-downloader-downloads/8.5.2",
+    "renpyWarp.sdkPath": "/home/nano_machine/.config/Code - OSS/User/globalStorage/paisleysoftworks.renpywarp/file-downloader-downloads/8.5.2",
     "files.exclude": {
         "**/*.rpyc": true,
         "**/*.rpa": true,

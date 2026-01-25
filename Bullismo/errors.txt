@@ -2,9 +2,13 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 45: end of line expected.
-    scene bg classroom = Transform(
-                       ^
+File "game/script.rpy", line 238: invalid syntax
+    define perso = False
+                       ^^^^^
+
+File "game/script.rpy", line 264: invalid syntax
+    define perso = True
+                       ^^^^^
 
 Ren'Py Version: Ren'Py 8.5.2.26010301
-Sat Jan 24 19:10:06 2026
+Sun Jan 25 16:23:51 2026
