@@ -136,7 +136,7 @@ define gui.namebox_tile = False
 ## La posizione dei dialoghi, relativa al textbox. Può essere un numero esatto
 ## di pixel relativo ai bordi sinistro o superiore del textbox, oppure 0.5 per
 ## centrare.
-define gui.dialogue_xpos = 402
+define gui.dialogue_xpos = 0.5
 define gui.dialogue_ypos = 75
 
 ## La larghezza massima del testo di dialogo, in pixel.
@@ -144,7 +144,7 @@ define gui.dialogue_width = 1116
 
 ## L'allineamento orizzontale del testo di dialogo. Può essere 0.0 per
 ## allinearlo a sinistra, 0.5 al centro e 1.0 a destra.
-define gui.dialogue_text_xalign = 0.0
+define gui.dialogue_text_xalign = 0.5
 
 
 ## Pulsanti ####################################################################
@@ -381,11 +381,11 @@ define gui.nvl_borders = Borders(0, 15, 0, 30)
 
 ## Il numero massimo di voci in modalità NVL che Ren'Py visualizzerà. Se ne
 ## devono essere visualizzate di più, la voce più vecchia verrà rimossa.
-define gui.nvl_list_length = 6
+define gui.nvl_list_length = 1
 
 ## L'altezza di un elemento NVL. Impostalo a 'None' e gli elementi stabiliranno
 ## un'altezza automatica.
-define gui.nvl_height = 173
+define gui.nvl_height = None
 
 ## La spaziatura fra gli elementi in Modalità NVL, quando gui.nvl_height è None,
 ## e fra questi e un menu NVL.
@@ -406,10 +406,10 @@ define gui.nvl_text_xalign = 0.0
 
 ## La posizione, larghezza e allineamento del testo nvl_thought (il testo del
 ## personaggio nvl_narrator.)
-define gui.nvl_thought_xpos = 360
-define gui.nvl_thought_ypos = 0
+define gui.nvl_thought_xpos = 0.5
+define gui.nvl_thought_ypos = 0.5
 define gui.nvl_thought_width = 1170
-define gui.nvl_thought_xalign = 0.0
+define gui.nvl_thought_xalign = 0.5
 
 ## La posizione dei menu_buttons in modalità NVL.
 define gui.nvl_button_xpos = 675
